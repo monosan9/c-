@@ -1,0 +1,6 @@
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\Wzorki\Wzorki cd\obj\Debug\Wzorki cd.csproj.CoreCompileInputs.cache
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\Wzorki\Wzorki cd\bin\Debug\Wzorki cd.exe.config
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\Wzorki\Wzorki cd\bin\Debug\Wzorki cd.exe
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\Wzorki\Wzorki cd\bin\Debug\Wzorki cd.pdb
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\Wzorki\Wzorki cd\obj\Debug\Wzorki cd.exe
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\Wzorki\Wzorki cd\obj\Debug\Wzorki cd.pdb

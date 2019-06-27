@@ -1,0 +1,7 @@
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\Wzorek typu A\bin\Debug\Wzorek typu A.exe.config
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\Wzorek typu A\bin\Debug\Wzorek typu A.exe
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\Wzorek typu A\bin\Debug\Wzorek typu A.pdb
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\Wzorek typu A\obj\Debug\Wzorek typu A.csprojAssemblyReference.cache
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\Wzorek typu A\obj\Debug\Wzorek typu A.csproj.CoreCompileInputs.cache
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\Wzorek typu A\obj\Debug\Wzorek typu A.exe
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\Wzorek typu A\obj\Debug\Wzorek typu A.pdb

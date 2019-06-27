@@ -1,0 +1,7 @@
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\WzorkiX\obj\Debug\WzorkiX.csprojAssemblyReference.cache
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\WzorkiX\obj\Debug\WzorkiX.csproj.CoreCompileInputs.cache
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\WzorkiX\bin\Debug\WzorkiX.exe.config
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\WzorkiX\bin\Debug\WzorkiX.exe
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\WzorkiX\bin\Debug\WzorkiX.pdb
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\WzorkiX\obj\Debug\WzorkiX.exe
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\WzorkiX\obj\Debug\WzorkiX.pdb

@@ -1,0 +1,7 @@
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\cwiczenia\bin\Debug\cwiczenia.exe.config
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\cwiczenia\bin\Debug\cwiczenia.exe
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\cwiczenia\bin\Debug\cwiczenia.pdb
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\cwiczenia\obj\Debug\cwiczenia.csprojAssemblyReference.cache
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\cwiczenia\obj\Debug\cwiczenia.csproj.CoreCompileInputs.cache
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\cwiczenia\obj\Debug\cwiczenia.exe
+C:\Users\monika.raab\Desktop\C#\ćwiczenia\cwiczenia\cwiczenia\obj\Debug\cwiczenia.pdb
