@@ -1,0 +1,7 @@
+C:\Users\monika.raab\Documents\GitHub\csharp\Revert7\bin\Debug\Revert7.exe.config
+C:\Users\monika.raab\Documents\GitHub\csharp\Revert7\bin\Debug\Revert7.exe
+C:\Users\monika.raab\Documents\GitHub\csharp\Revert7\bin\Debug\Revert7.pdb
+C:\Users\monika.raab\Documents\GitHub\csharp\Revert7\obj\Debug\Revert7.csprojAssemblyReference.cache
+C:\Users\monika.raab\Documents\GitHub\csharp\Revert7\obj\Debug\Revert7.csproj.CoreCompileInputs.cache
+C:\Users\monika.raab\Documents\GitHub\csharp\Revert7\obj\Debug\Revert7.exe
+C:\Users\monika.raab\Documents\GitHub\csharp\Revert7\obj\Debug\Revert7.pdb
