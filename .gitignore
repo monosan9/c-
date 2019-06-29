@@ -1,0 +1,6 @@
+
+*.ide-wal
+.vs/cwiczenia/v15/.suo
+*.lock
+.vs/cwiczenia/v15/Server/sqlite3/storage.ide
+.vs/cwiczenia/v15/Server/sqlite3/storage.ide-shm
