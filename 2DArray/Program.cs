@@ -12,7 +12,9 @@ namespace _2DArray
         {
 
            // Console.WriteLine("numer wiersza z maksymalna suma= " + KtóryWiersz(tab));
-
+               
+            int maxwiersz = 0;          
+         
             int[,] tab = new int[5, 3] {
                 { 1, 1, 1 }, //wiersz 0 
                 { -2, -3, 2 }, // wiersz 1
@@ -35,6 +37,7 @@ namespace _2DArray
 
                     if (suma > maxsuma)
                     {
+                        maxwiersz = i;
                         maxsuma = suma;
                     }
 
@@ -46,6 +49,7 @@ namespace _2DArray
 
             }
             Console.WriteLine(maxsuma);
+            Console.WiteLine(maxwiersz);
             Console.WriteLine();
             
 
