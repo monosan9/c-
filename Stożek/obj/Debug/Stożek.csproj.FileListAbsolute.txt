@@ -1,0 +1,7 @@
+C:\Users\monika.raab\Documents\GitHub\csharp\Stożek\bin\Debug\Stożek.exe.config
+C:\Users\monika.raab\Documents\GitHub\csharp\Stożek\bin\Debug\Stożek.exe
+C:\Users\monika.raab\Documents\GitHub\csharp\Stożek\bin\Debug\Stożek.pdb
+C:\Users\monika.raab\Documents\GitHub\csharp\Stożek\obj\Debug\Stożek.csprojAssemblyReference.cache
+C:\Users\monika.raab\Documents\GitHub\csharp\Stożek\obj\Debug\Stożek.csproj.CoreCompileInputs.cache
+C:\Users\monika.raab\Documents\GitHub\csharp\Stożek\obj\Debug\Stożek.exe
+C:\Users\monika.raab\Documents\GitHub\csharp\Stożek\obj\Debug\Stożek.pdb
